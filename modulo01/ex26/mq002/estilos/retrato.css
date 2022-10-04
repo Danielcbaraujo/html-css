@@ -1,2 +1,6 @@
 @charset "UTF-8";
 /* orientação da tela em modo portrait*/
+body {
+    background-image: url(../imagens/cev-portrait.jpg);
+    background-position: center bottom;
+}
